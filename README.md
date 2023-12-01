@@ -2,5 +2,5 @@
 #A collaborative project
 
 1. Obed Kwartekwei Quartey
-2. Oscar Akantey Boafo
+2. Oscar Akwantey Boafo
 
