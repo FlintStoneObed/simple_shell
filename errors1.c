@@ -53,7 +53,7 @@ void print_error(info_t *info, char *estr)
  * @input: input
  * @fd: filedescriptor to write to
  *
- * Return: number of characters printed
+ * Return: number of characters printed.
  */
 int print_d(int input, int fd)
 {
