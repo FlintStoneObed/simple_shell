@@ -35,7 +35,7 @@ int _myexit(info_t *info)
  * @info: Structure containing potential arguments. Used to maintain
  * constant function prototype.
  *
- * Return: Always 0
+ * Return: Always 0 on success
  */
 int _mycd(info_t *info)
 {
