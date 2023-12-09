@@ -4,7 +4,7 @@
  *_eputs - prints an input string
  * @str: string to be printed
  *
- * Return: Nothing
+ * Return: NULL
  */
 void _eputs(char *str)
 {
