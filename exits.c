@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _strncpy - copies a string
+ * _strncpy - this copies a string
  * @dest: destination string to be copied to
  * @src: source string
  * @n: amount of characters to be copied
@@ -32,7 +32,7 @@ char *_strncpy(char *dest, char *src, int n)
 }
 
 /**
- * _strncat - concatenates two strings
+ * _strncat - this concatenates two strings
  * @dest: first string
  * @src: second string
  * @n: amount of bytes to be maximally used
@@ -60,7 +60,7 @@ char *_strncat(char *dest, char *src, int n)
 }
 
 /**
- * _strchr - locates a character in a string
+ * _strchr - this locates a character in a string
  * @s: string to be parsed
  * @c: character to look for
  *
